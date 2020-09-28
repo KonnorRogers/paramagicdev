@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://blog.konnor.site](https://blog.konnor.site)
 
-- 💬 Ask me about **Ruby, Rails, or Frontend bundlers**
+- 💬 Ask me about **Ruby, Rails, Bridgetown or Snowpack**
 
 - 📫 How to reach me **konnor5456@gmail.com**
 
