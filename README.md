@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konnor!</h1>
-<h3 align="center">A full-stack Ruby on Rails developer from Rhode Island.</h3>
+<h3 align="center">A full-stack Ruby on Rails developer from Providence, RI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramagicdev" alt="paramagicdev" /> </p>
 
