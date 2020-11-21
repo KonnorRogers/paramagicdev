@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramagicdev" alt="paramagicdev" /> </p>
 
-- 💻 I'm currently open to contract and full-time employment.
-
 - 🔭 I’m currently working on [Snowpacker](https://github.com/ParamagicDev/snowpacker)
 
 - 👨‍💻 My portfolio is available at [https://konnor.site](https://konnor.site)
@@ -14,8 +12,6 @@
 - 💬 Ask me about **Ruby, Rails, Bridgetown or Snowpack**
 
 - 📫 How to reach me **konnor5456@gmail.com**
-
-- ⚡ Fun fact **I currently work as a paramedic**
 
 
 <h3 align="left">Languages and Tools:</h3>
