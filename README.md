@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramagicdev" alt="paramagicdev" /> </p>
 
-- 🔭 I’m currently working on [Snowpacker](https://github.com/ParamagicDev/snowpacker)
+- 🔭 I’m currently working on [ViteRb](https://github.com/ParamagicDev/vite_rb3)
 
 - 👨‍💻 My portfolio is available at [https://konnor.site](https://konnor.site)
 
 - 📝 I regulary write articles on [https://blog.konnor.site](https://blog.konnor.site)
 
-- 💬 Ask me about **Ruby, Rails, Bridgetown or Snowpack**
+- 💬 Ask me about **Ruby, Rails, Bridgetown, Snowpack, Vite**
 
 - 📫 How to reach me **konnor5456@gmail.com**
 
