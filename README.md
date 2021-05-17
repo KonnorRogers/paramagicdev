@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paramagicdev" alt="paramagicdev" /> </p>
 
-- 🔭 I’m currently working on [ViteRb](https://github.com/ParamagicDev/vite_rb3)
+- 🔭 I’m currently working on [Mrujs](https://github.com/ParamagicDev/mrujs)
 
 - 👨‍💻 My portfolio is available at [https://konnor.site](https://konnor.site)
 
